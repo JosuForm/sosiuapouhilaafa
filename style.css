@@ -87,3 +87,6 @@ header {
     transform: translateX(-100%);
   }
 }
+.scroll-container:hover .scroll-track {
+  animation-play-state: paused;
+}
